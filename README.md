@@ -43,4 +43,4 @@ This project uses Medium RSS API to get personal profile data and uses cheerio t
     ex: https://medium.com/@ **oldmo860617** 
 
 5. [Pin your gist](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
-6. Wait for it to update (the github aciton cron job will run every 8 hours), or you can manually push the repo to trigger the action.
+6. Wait for it to update (the github aciton cron job will run every 8 hours), or you can manually push the repo to trigger the action.YA
